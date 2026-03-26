@@ -1,0 +1,19 @@
+# Requirements for Freecash Skill Family
+
+## Core Requirements
+- Android device with USB debugging enabled
+- ADB (Android Debug Bridge) installed and in PATH
+- Hermes Agent installed with vision analysis capabilities
+
+## App-Specific Requirements
+- Big Farm Homestead (for big-farm-homestead-automation skill)
+- Disney Solitaire (for disney-solitaire skill)
+- Access to sicodice.com website (for dice-faucet skill)
+- Access to bitvest.io website (for bitvest-dice skill)
+
+## Service Requirements (for dice skills)
+- 2Captcha API key (for solving CAPTCHAs)
+- Browserbase account with proxy configuration (recommended for dice skills)
+
+## Python Dependencies (if running standalone)
+- None required - skills are designed to work with Hermes Agent's built-in tools
