@@ -155,6 +155,63 @@ After tasks show as completed in Freecash:
 - **When building or upgrading structures, look for a gold icon (often showing the cost) and tap it to confirm and proceed with the construction.**
 - **When multiple buildings are available for upgrade, prioritize the leftmost building as it often represents the main homestead progression path.**
 
+## Specific Build Order for Golden Hills Homestead (Based on Homestead Fansite Guide)
+Based on the level-by-level guide at https://www.homesteadfansite.com/guide, here is the recommended build order to efficiently reach Golden Hills Homestead Levels 3 & 4:
+
+### Prerequisites (Levels 1-7)
+Before accessing Golden Hills (unlocks at Level 8):
+- **Level 1-2:** Focus on basic production chains (fields → workshops)
+- **Level 3:** Build Market Stand and Feed Mill (unlocks trading and animal feed)
+- **Level 4:** Build Bakery (first processing building for goods)
+- **Level 5:** Upgrade Barn, expand land, manage Happiness
+- **Level 6:** Build Silo for fertilizer storage (critical for crop production)
+- **Level 7:** Plant first Grove (Tomato recommended for early profits)
+
+### Golden Hills Access (Level 8)
+- **Level 8:** Golden Hills area unlocks - focus on Barley production
+- Immediately build Barley field in Golden Hills area
+- Construct first production building in Golden Hills (typically a workshop)
+
+### Golden Hills Homestead Progression
+**Golden Hills Homestead Level 1 → 2:**
+- Upgrade main house to Level 2
+- Prerequisites: ~5000 cash, basic materials (wood, stone)
+- Tip: Complete Market contracts first to fund upgrade
+
+**Golden Hills Homestead Level 2 → 3 (FREECASH TARGET):**
+- Requires: Level 12+ player, Market Level 3+, Feed Mill Level 2+
+- Build sequence: 
+  1. Upgrade Market to Level 3 (unlocks better contracts)
+  2. Upgrade Feed Mill to Level 2 (increases animal processing)
+  3. Ensure steady Barley supply from Golden Hills fields
+  4. Upgrade Homestead to Level 3 (~15,000 cash, increased material costs)
+- Verification: Look for visual change to larger farmhouse with additional wings
+
+**Golden Hills Homestead Level 3 → 4 (FREECASH TARGET):**
+- Requires: Level 20+ player, Bakery Level 3+, Land expansion
+- Build sequence:
+  1. Expand land to Golden Hills borders (purchase adjacent plots)
+  2. Upgrade Bakery to Level 3 (unlocks advanced recipes)
+  3. Build Water Mill (Level 13 prerequisite for efficient production)
+  4. Upgrade Homestead to Level 4 (~40,000 cash, significant material costs)
+- Verification: Homestead gains third story and distinctive roof architecture
+
+### Continued Progression to Level 50
+After completing Freecash targets (Levels 3-4):
+- Levels 5-10: Focus on efficiency - upgrade processing buildings before expanding fields
+- Levels 11-20: Introduce animal husbandry (cows, chickens) for diverse products
+- Levels 21-30: Specialization - choose 1-2 production chains to master
+- Levels 31-40: Automation - build storage facilities to buffer production
+- Levels 41-50: Optimization - focus on high-XP contracts and Blue Star rewards
+
+### Critical Success Factors from Guide
+1. **Market First:** Always fulfill available contracts before starting long builds
+2. **Balance Resources:** Monitor both cash AND materials (wood, stone, etc.)
+3. **Happiness Management:** Keep happiness in target zone to reduce costs
+4. **Land Strategy:** Buy land where you need it, not just cheapest available
+5. **Production Chains:** Create closed loops (field → factory → market) for efficiency
+6. **Timed Actions:** Use building edit mode to rotate structures for optimal layout
+
 ## Pitfalls and Solutions
 - **Pitfall:** Rigid coordinate tapping fails due to UI shifts
   **Solution:** Always use vision analysis to locate elements before tapping
